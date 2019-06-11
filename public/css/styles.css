@@ -28,7 +28,7 @@ html, body {
     border-radius:50%;
     float:left;
     margin-top:-5px;
-    background-image: url('/images/profile.png');
+    background-image: url('../images/profile.png');
 }
 .profile-pic img{
     margin-top:5px;
@@ -95,7 +95,7 @@ a{
     height:92.3vh;
     border-right: 1px solid #E8E4E1;
     border-left: 1px solid #E8E4E1;
-    background-image: url('/images/cream_pixels.png');
+    background-image: url('../images/cream_pixels.png');
 }
 .side-menu{
     border-right: #E8E4E1 1px solid;
@@ -254,35 +254,35 @@ th{
     top:0;
     left:0;
     position:absolute;
-    background-image: url('/images/modal.png');
+    background-image: url('../images/modal.png');
 }
 #home-icon{
-    background-image: url('/images/home.png');
+    background-image: url('../images/home.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 #dash-icon{
-    background-image: url('/images/dash.png');
+    background-image: url('../images/dash.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 #txns-icon{
-    background-image: url('/images/txns.png');
+    background-image: url('../images/txns.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 #settings-icon{
-    background-image: url('/images/settings.png');
+    background-image: url('../images/settings.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 #org-icon{
-    background-image: url('/images/org.png');
+    background-image: url('../images/org.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 #apps-icon{
-    background-image: url('/images/apps.png');
+    background-image: url('../images/apps.png');
     background-repeat: no-repeat;
     background-position: center;
 }

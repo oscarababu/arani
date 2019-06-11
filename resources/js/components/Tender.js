@@ -14,7 +14,7 @@ class Tender extends Component {
                             <div className="col-lg-12">
                                 <div className="row">
                                     <div className="col-sm-11 p-2">
-                                        <h5 className="ml-2">Tender Items</h5>
+                                        <h5 className="ml-2"><b>Tender Items</b></h5>
                                     </div>
                                     <div className="col-sm-1 p-2 text-right cls-pointer" onClick={this.props.hideDiv}>
                                         <img src='images/cls.png' />
@@ -25,7 +25,7 @@ class Tender extends Component {
 
                                 <div className="row form-group">
                                     <div className="col-sm-2 pt-4">
-                                        <label>CASH</label>
+                                        <label>CASH </label>
                                     </div>
                                     <div className="col-sm-10 p-2">
                                         <input type='text' className="col-sm-11 float-left" />

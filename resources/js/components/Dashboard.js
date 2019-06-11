@@ -15,7 +15,7 @@ export default class Dashboard extends Component {
                         <div className="col-lg-12 mt-1 pt-2 items-search" >
                             <div className="row">
                                 <div className="col-lg-11 float-right"><p>Admin / Dashboard </p></div>
-                                <div className="col-lg-1 float-right"><img src="/images/search.png" /></div>
+                                <div className="col-lg-1 float-right"><img src="images/search.png" /></div>
                             </div>
                             
                             

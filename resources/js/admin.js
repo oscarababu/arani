@@ -91,7 +91,6 @@ export default class Admin extends Component {
                                         </div>
                                     </div>
 
-                                
                             </div>
 
                             }

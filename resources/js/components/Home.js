@@ -36,11 +36,11 @@ class Home extends Component {
                                     <tr><th></th><th>Code</th><th>Item</th><th>Qty</th><th>Price</th><th></th></tr>
                                 </thead>
                                 <tbody>
-                                    <tr><td><img src="/images/shopping-bag.png" /></td><td>4323</td><td>Ball</td><td>1</td><td>200</td></tr>
-                                    <tr><td><img src="/images/shopping-bag.png" /></td><td>4323</td><td>longridge junior challenger cadet golf package set (8 year plus)</td><td>1</td><td>200</td></tr>
-                                    <tr><td><img src="/images/shopping-bag.png" /></td><td>4323</td><td>Ball</td><td>1</td><td>200</td></tr>
-                                    <tr><td><img src="/images/shopping-bag.png" /></td><td>4323</td><td>Ball</td><td>1</td><td>200</td></tr>
-                                    <tr><td><img src="/images/shopping-bag.png" /></td><td>4323</td><td>Ball</td><td>1</td><td>200</td></tr>
+                                    <tr><td><img src="images/shopping-bag.png" /></td><td>4323</td><td>Ball</td><td>1</td><td>200</td></tr>
+                                    <tr><td><img src="images/shopping-bag.png" /></td><td>4323</td><td>longridge junior challenger cadet golf package set (8 year plus)</td><td>1</td><td>200</td></tr>
+                                    <tr><td><img src="images/shopping-bag.png" /></td><td>4323</td><td>Ball</td><td>1</td><td>200</td></tr>
+                                    <tr><td><img src="images/shopping-bag.png" /></td><td>4323</td><td>Ball</td><td>1</td><td>200</td></tr>
+                                    <tr><td><img src="images/shopping-bag.png" /></td><td>4323</td><td>Ball</td><td>1</td><td>200</td></tr>
                             
                                 </tbody>
                                 
@@ -70,11 +70,11 @@ class Home extends Component {
                                     <tr><th>Code</th><th>Item</th><th>Qty</th><th>Price</th><th>Total</th><th></th></tr>
                                 </thead>
                                 <tbody>
-                                    <tr><td>4323</td><td>Ball</td><td>1</td><td>200</td><td>200</td><td><a href=''><img src='/images/cls.png' /></a></td></tr>
-                                    <tr><td>4323</td><td>longridge junior challenger cadet golf package set (8 year plus)</td><td>1</td><td>200</td><td>200</td><td><a href=''><img src='/images/cls.png' /></a></td></tr>
-                                    <tr><td>4323</td><td>Ball</td><td>1</td><td>200</td><td>200</td><td><a href=''><img src='/images/cls.png' /></a></td></tr>
-                                    <tr><td>4323</td><td>Ball</td><td>1</td><td>200</td><td>200</td><td><a href=''><img src='/images/cls.png' /></a></td></tr>
-                                    <tr><td>4323</td><td>Ball</td><td>1</td><td>200</td><td>200</td><td><a href=''><img src='/images/cls.png' /></a></td></tr>
+                                    <tr><td>4323</td><td>Ball</td><td>1</td><td>200</td><td>200</td><td><a href=''><img src='images/cls.png' /></a></td></tr>
+                                    <tr><td>4323</td><td>longridge junior challenger cadet golf package set (8 year plus)</td><td>1</td><td>200</td><td>200</td><td><a href=''><img src='images/cls.png' /></a></td></tr>
+                                    <tr><td>4323</td><td>Ball</td><td>1</td><td>200</td><td>200</td><td><a href=''><img src='images/cls.png' /></a></td></tr>
+                                    <tr><td>4323</td><td>Ball</td><td>1</td><td>200</td><td>200</td><td><a href=''><img src='images/cls.png' /></a></td></tr>
+                                    <tr><td>4323</td><td>Ball</td><td>1</td><td>200</td><td>200</td><td><a href=''><img src='images/cls.png' /></a></td></tr>
                             
                                 </tbody>
                                 

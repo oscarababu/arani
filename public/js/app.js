@@ -62066,7 +62066,7 @@ function warning(message) {
 /*!***************************************************************!*\
   !*** ./node_modules/react-router-dom/esm/react-router-dom.js ***!
   \***************************************************************/
-/*! exports provided: MemoryRouter, Prompt, Redirect, Route, Router, StaticRouter, Switch, generatePath, matchPath, withRouter, __RouterContext, BrowserRouter, HashRouter, Link, NavLink */
+/*! exports provided: BrowserRouter, HashRouter, Link, NavLink, MemoryRouter, Prompt, Redirect, Route, Router, StaticRouter, Switch, generatePath, matchPath, withRouter, __RouterContext */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -67932,7 +67932,7 @@ function (_Component) {
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Admin / Dashboard ")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "col-lg-1 float-right"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-        src: "/images/search.png"
+        src: "images/search.png"
       }))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "row"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_DashItem__WEBPACK_IMPORTED_MODULE_2__["default"], {
@@ -68048,15 +68048,15 @@ function (_Component) {
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "col-lg-12 mt-1 items-table-tray"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("table", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("thead", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("tr", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("th", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("th", null, "Code"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("th", null, "Item"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("th", null, "Qty"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("th", null, "Price"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("th", null))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("tbody", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("tr", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-        src: "/images/shopping-bag.png"
+        src: "images/shopping-bag.png"
       })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "4323"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "Ball"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "1"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "200")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("tr", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-        src: "/images/shopping-bag.png"
+        src: "images/shopping-bag.png"
       })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "4323"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "longridge junior challenger cadet golf package set (8 year plus)"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "1"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "200")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("tr", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-        src: "/images/shopping-bag.png"
+        src: "images/shopping-bag.png"
       })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "4323"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "Ball"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "1"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "200")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("tr", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-        src: "/images/shopping-bag.png"
+        src: "images/shopping-bag.png"
       })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "4323"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "Ball"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "1"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "200")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("tr", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-        src: "/images/shopping-bag.png"
+        src: "images/shopping-bag.png"
       })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "4323"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "Ball"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "1"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "200"))))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "col-lg-6  mt-2 totals-tray float-left"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -68080,23 +68080,23 @@ function (_Component) {
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("table", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("thead", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("tr", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("th", null, "Code"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("th", null, "Item"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("th", null, "Qty"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("th", null, "Price"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("th", null, "Total"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("th", null))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("tbody", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("tr", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "4323"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "Ball"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "1"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "200"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "200"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
         href: ""
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-        src: "/images/cls.png"
+        src: "images/cls.png"
       })))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("tr", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "4323"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "longridge junior challenger cadet golf package set (8 year plus)"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "1"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "200"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "200"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
         href: ""
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-        src: "/images/cls.png"
+        src: "images/cls.png"
       })))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("tr", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "4323"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "Ball"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "1"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "200"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "200"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
         href: ""
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-        src: "/images/cls.png"
+        src: "images/cls.png"
       })))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("tr", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "4323"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "Ball"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "1"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "200"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "200"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
         href: ""
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-        src: "/images/cls.png"
+        src: "images/cls.png"
       })))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("tr", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "4323"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "Ball"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "1"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "200"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, "200"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("td", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
         href: ""
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-        src: "/images/cls.png"
+        src: "images/cls.png"
       })))))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "row"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -68251,18 +68251,18 @@ function (_PureComponent) {
         className: "mt-2 side-menu float-left",
         onMouseEnter: this.toggleHidden.bind(this),
         onMouseLeave: this.toggleHidden.bind(this)
-      }, currLoc == '/home' || currLoc == '/' ? react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      }, currLoc == '/arani-pos/home' || currLoc == '/arani-pos/' ? react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "row"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_8__["NavLink"], {
         className: "icons",
         id: "home-icon",
         activeStyle: {
           'borderRight': '1px solid #044476',
-          'backgroundImage': "url('/images/home-black.png')",
+          'backgroundImage': "url('images/home-black.png')",
           'backgroundRepeat': 'no-repeat',
           'backgroundPosition': 'center'
         },
-        to: "/home"
+        to: "/arani-pos/home"
       })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "row"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_8__["NavLink"], {
@@ -68270,11 +68270,11 @@ function (_PureComponent) {
         id: "dash-icon",
         activeStyle: {
           'borderRight': '1px solid #044476',
-          'backgroundImage': "url('/images/dash-black.png')",
+          'backgroundImage': "url('images/dash-black.png')",
           'backgroundRepeat': 'no-repeat',
           'backgroundPosition': 'center'
         },
-        to: "/dashboard"
+        to: "/arani-pos/dashboard"
       })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "row"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_8__["NavLink"], {
@@ -68282,11 +68282,11 @@ function (_PureComponent) {
         id: "txns-icon",
         activeStyle: {
           'borderRight': '1px solid #044476',
-          'backgroundImage': "url('/images/txns-black.png')",
+          'backgroundImage': "url('images/txns-black.png')",
           'backgroundRepeat': 'no-repeat',
           'backgroundPosition': 'center'
         },
-        to: "/reports"
+        to: "/arani-pos/reports"
       })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "row"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_8__["NavLink"], {
@@ -68294,11 +68294,11 @@ function (_PureComponent) {
         id: "settings-icon",
         activeStyle: {
           'borderRight': '1px solid #044476',
-          'backgroundImage': "url('/images/settings-black.png')",
+          'backgroundImage': "url('images/settings-black.png')",
           'backgroundRepeat': 'no-repeat',
           'backgroundPosition': 'center'
         },
-        to: "/new-item"
+        to: "/arani-pos/new-item"
       })), !this.state.isHidden && react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "mt-2 expanded-menu float-left"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -68308,7 +68308,7 @@ function (_PureComponent) {
           'fontWeight': 'bold'
         },
         className: "menu-desc pt-3 col-md-10",
-        to: "/home"
+        to: "/arani-pos/home"
       }, "Home")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "row"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_8__["NavLink"], {
@@ -68316,7 +68316,7 @@ function (_PureComponent) {
           'fontWeight': 'bold'
         },
         className: "menu-desc pt-3 col-md-10",
-        to: "/dashboard"
+        to: "/arani-pos/dashboard"
       }, "Dashboard")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "row"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_8__["NavLink"], {
@@ -68324,7 +68324,7 @@ function (_PureComponent) {
           'fontWeight': 'bold'
         },
         className: "menu-desc pt-3 col-md-10",
-        to: "/reports"
+        to: "/arani-pos/reports"
       }, "Reports")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "row"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_8__["NavLink"], {
@@ -68332,7 +68332,7 @@ function (_PureComponent) {
           'fontWeight': 'bold'
         },
         className: "menu-desc pt-3 col-md-10",
-        to: "/new-item"
+        to: "/arani-pos/new-item"
       }, "New Item")))) : react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "row"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_8__["NavLink"], {
@@ -68340,11 +68340,11 @@ function (_PureComponent) {
         id: "home-icon",
         activeStyle: {
           'borderRight': '1px solid #044476',
-          'backgroundImage': "url('/images/home-black.png')",
+          'backgroundImage': "url('images/home-black.png')",
           'backgroundRepeat': 'no-repeat',
           'backgroundPosition': 'center'
         },
-        to: "/home"
+        to: "/arani-pos/home"
       })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "row"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_8__["NavLink"], {
@@ -68352,11 +68352,11 @@ function (_PureComponent) {
         id: "dash-icon",
         activeStyle: {
           'borderRight': '1px solid #044476',
-          'backgroundImage': "url('/images/dash-black.png')",
+          'backgroundImage': "url('images/dash-black.png')",
           'backgroundRepeat': 'no-repeat',
           'backgroundPosition': 'center'
         },
-        to: "/dashboard"
+        to: "/arani-pos/dashboard"
       })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "row"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_8__["NavLink"], {
@@ -68364,11 +68364,11 @@ function (_PureComponent) {
         id: "txns-icon",
         activeStyle: {
           'borderRight': '1px solid #044476',
-          'backgroundImage': "url('/images/txns-black.png')",
+          'backgroundImage': "url('images/txns-black.png')",
           'backgroundRepeat': 'no-repeat',
           'backgroundPosition': 'center'
         },
-        to: "/reports"
+        to: "/arani-pos/reports"
       })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "row"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_8__["NavLink"], {
@@ -68376,11 +68376,11 @@ function (_PureComponent) {
         id: "settings-icon",
         activeStyle: {
           'borderRight': '1px solid #044476',
-          'backgroundImage': "url('/images/settings-black.png')",
+          'backgroundImage': "url('images/settings-black.png')",
           'backgroundRepeat': 'no-repeat',
           'backgroundPosition': 'center'
         },
-        to: "/new-item"
+        to: "/arani-pos/new-item"
       })), !this.state.isHidden && react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "mt-2 expanded-menu float-left"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -68390,7 +68390,7 @@ function (_PureComponent) {
           'fontWeight': 'bold'
         },
         className: "menu-desc pt-3 col-md-10",
-        to: "/home"
+        to: "/arani-pos/home"
       }, "Home")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "row"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_8__["NavLink"], {
@@ -68398,7 +68398,7 @@ function (_PureComponent) {
           'fontWeight': 'bold'
         },
         className: "menu-desc pt-3 col-md-10",
-        to: "/dashboard"
+        to: "/arani-pos/dashboard"
       }, "Dashboard")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "row"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_8__["NavLink"], {
@@ -68406,7 +68406,7 @@ function (_PureComponent) {
           'fontWeight': 'bold'
         },
         className: "menu-desc pt-3 col-md-10",
-        to: "/reports"
+        to: "/arani-pos/reports"
       }, "Reports")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "row"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_8__["NavLink"], {
@@ -68414,33 +68414,33 @@ function (_PureComponent) {
           'fontWeight': 'bold'
         },
         className: "menu-desc pt-3 col-md-10",
-        to: "/new-item"
+        to: "/arani-pos/new-item"
       }, "New Item"))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_8__["Switch"], null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_8__["Route"], {
-        path: "/",
+        path: "/arani-pos/",
         exact: true,
         component: _Home__WEBPACK_IMPORTED_MODULE_4__["default"]
       }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_8__["Route"], {
-        path: "/login",
+        path: "/arani-pos/login",
         exact: true,
         component: _Login__WEBPACK_IMPORTED_MODULE_2__["default"]
       }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_8__["Route"], {
-        path: "/sign-up",
+        path: "/arani-pos/sign-up",
         exact: true,
         component: _SignUp__WEBPACK_IMPORTED_MODULE_3__["default"]
       }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_8__["Route"], {
-        path: "/home",
+        path: "/arani-pos/home",
         exact: true,
         component: _Home__WEBPACK_IMPORTED_MODULE_4__["default"]
       }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_8__["Route"], {
-        path: "/dashboard",
+        path: "/arani-pos/dashboard",
         exact: true,
         component: _Dashboard__WEBPACK_IMPORTED_MODULE_7__["default"]
       }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_8__["Route"], {
-        path: "/reports",
+        path: "/arani-pos/reports",
         exact: true,
         component: _Reports__WEBPACK_IMPORTED_MODULE_6__["default"]
       }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_8__["Route"], {
-        path: "/new-item",
+        path: "/arani-pos/new-item",
         exact: true,
         component: _NewItem__WEBPACK_IMPORTED_MODULE_5__["default"]
       })));
@@ -68749,7 +68749,7 @@ function (_Component) {
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Admin / Reports")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "col-lg-1 float-right"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-        src: "/images/search.png"
+        src: "images/search.png"
       }))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "row"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -68957,7 +68957,7 @@ function (_Component) {
         className: "col-sm-11 p-2"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h5", {
         className: "ml-2"
-      }, "Tender Items")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("b", null, "Tender Items"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "col-sm-1 p-2 text-right cls-pointer",
         onClick: this.props.hideDiv
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -68968,7 +68968,7 @@ function (_Component) {
         className: "row form-group"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "col-sm-2 pt-4"
-      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("label", null, "CASH")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("label", null, "CASH ")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "col-sm-10 p-2"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("input", {
         type: "text",
@@ -69100,18 +69100,18 @@ function (_Component) {
         className: "row"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "col-lg-12 top-menu"
-      }, currLoc == "/login" || currLoc == "/sign-up" ? react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      }, currLoc == "/arani-pos/login" || currLoc == "/arani-pos/sign-up" ? react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "col-lg-12 top-menu"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "col-md-1 mr-2 link float-left"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Logo")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_2__["NavLink"], {
         className: "col-md-1 mr-2 link float-right",
         activeClassName: "active-menu",
-        to: "/sign-up"
+        to: "/arani-pos/sign-up"
       }, "Sign Up"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_2__["NavLink"], {
         className: "col-md-1 mr-2 link float-right",
         activeClassName: "active-menu",
-        to: "/login"
+        to: "/arani-pos/login"
       }, "Login")) : react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "col-lg-12 top-menu"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -69119,19 +69119,19 @@ function (_Component) {
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Logo")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "col-md-1 mr-2 link float-right"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-        src: "/images/menu.png"
+        src: "images/menu.png"
       })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "col-md-1 mr-2 link float-right"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "profile-pic"
       })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-        className: "col-md-2 mr-2 link float-right"
+        className: "col-md-2 link float-right"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "o.ababu"))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_2__["Switch"], null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_2__["Route"], {
-        path: "/login",
+        path: "/arani-pos/login",
         exact: true,
         component: _Login__WEBPACK_IMPORTED_MODULE_4__["default"]
       }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_2__["Route"], {
-        path: "/sign-up",
+        path: "/arani-pos/sign-up",
         exact: true,
         component: _SignUp__WEBPACK_IMPORTED_MODULE_3__["default"]
       })));
@@ -69205,9 +69205,10 @@ function (_Component) {
   _createClass(Index, [{
     key: "render",
     value: function render() {
+      var currLoc = window.location.pathname;
       return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "container-fluid"
-      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_Top__WEBPACK_IMPORTED_MODULE_3__["default"], null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_2__["default"], null));
+      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_Top__WEBPACK_IMPORTED_MODULE_3__["default"], null), currLoc == "/arani-pos/sign-up" || currLoc == "/arani-pos/login" ? react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null) : react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_2__["default"], null));
     }
   }]);
 
@@ -69280,8 +69281,8 @@ var reducer = function reducer() {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\xampp\htdocs\arani\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! C:\xampp\htdocs\arani\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! C:\xampp\htdocs\arani-pos\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! C:\xampp\htdocs\arani-pos\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ })

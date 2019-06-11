@@ -17,19 +17,19 @@ export default class Top extends Component {
             <div className="row">
                         <div className="col-lg-12 top-menu" >
                             {
-                                currLoc == "/login" || currLoc == "/sign-up" ?
+                                currLoc == "/arani-pos/login" || currLoc == "/arani-pos/sign-up" ?
 
                                 <div className="col-lg-12 top-menu" >
                                         <div className="col-md-1 mr-2 link float-left" >
                                             <p>Logo</p>
                                         </div>
                                         
-                                        <NavLink className="col-md-1 mr-2 link float-right" activeClassName='active-menu' to="/sign-up">
+                                        <NavLink className="col-md-1 mr-2 link float-right" activeClassName='active-menu' to="/arani-pos/sign-up">
                                             Sign Up 
                                         </NavLink>
                                         
 
-                                        <NavLink className="col-md-1 mr-2 link float-right" activeClassName='active-menu' to="/login">
+                                        <NavLink className="col-md-1 mr-2 link float-right" activeClassName='active-menu' to="/arani-pos/login">
                                             Login
                                         </NavLink>
                                         
@@ -43,12 +43,12 @@ export default class Top extends Component {
                                         </div>
                                         
                                         <div className="col-md-1 mr-2 link float-right" >
-                                            <img src="/images/menu.png" />
+                                            <img src="images/menu.png" />
                                         </div>
                                         <div className="col-md-1 mr-2 link float-right" >
                                             <div className="profile-pic"></div>
                                         </div>
-                                        <div className="col-md-2 mr-2 link float-right" >
+                                        <div className="col-md-2 link float-right" >
                                             <p>o.ababu</p>
                                         </div>
                                 </div>
@@ -58,8 +58,8 @@ export default class Top extends Component {
                         </div>
             </div>  
             <Switch>
-                <Route path="/login" exact component={Login} />
-                <Route path="/sign-up" exact component={SignUp} />
+                <Route path="/arani-pos/login" exact component={Login} />
+                <Route path="/arani-pos/sign-up" exact component={SignUp} />
             </Switch>  
             </Router>  
         );

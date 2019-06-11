@@ -15,12 +15,18 @@ const store = createStore(reducer);
 export default class Index extends Component {
 
     render() {
+        const currLoc = window.location.pathname;
 
         return (
    
                     <div className="container-fluid">
                             <Top/>
-                            <Layout/>
+                            { currLoc =="/arani-pos/sign-up" || currLoc =="/arani-pos/login" ? 
+                                <div></div>
+                                :
+                                <Layout/>
+                            }
+                            
                            
                     </div>
         );
